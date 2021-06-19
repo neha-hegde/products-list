@@ -1,0 +1,21 @@
+body{
+    margin: auto;
+}
+
+.header{
+    background-color: rgb(189, 189, 187);
+    text-align: center;
+}
+
+.product{
+    background-color: lightblue;
+    margin: 10px 10px 10px 10px;
+    padding-bottom: 5px;
+    border-bottom: 1px dashed black;
+    display: flex;
+    flex-direction: column;
+}
+
+#button{
+    width: 100px;
+}
